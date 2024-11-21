@@ -1761,7 +1761,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkPoint1: {fileID: 407914545}
   checkPoint2: {fileID: 1877920061}
-  speed: 0.0006
+  speed: 0.6
+  rotationSpeed: 10
   checkpointDist: 0.01
 --- !u!114 &472857645
 MonoBehaviour:
@@ -1770,7 +1771,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 472857634}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0f18ce4f59db7054eaaacc590c648d2d, type: 3}
   m_Name: 
